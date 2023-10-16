@@ -1,0 +1,3 @@
+[submodule "MoolahProject"]
+	path = MoolahProject
+	url = https://github.com/MoolahModding/MoolahProject
